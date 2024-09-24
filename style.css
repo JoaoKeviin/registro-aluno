@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+}
+
+.form-container{
+    max-width: 300px;
+    padding: 1rem;
+}
+
+.bg-body-tertiary{
+background-color: rgb(21 24 28) !important;
+}
+
+main{
+    text-align: center;
+}
